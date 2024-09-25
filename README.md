@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Sangitaa M (@sangitaa11)
+# 👋 Hey there! I'm Sangitaa 
 
 ## 👀 About Me
 I’m a passionate tech enthusiast currently pursuing my **BE in Computer Science and Engineering** at MIT, Chennai. I love solving complex problems and diving deep into algorithms, especially **Data Structures** and **Machine Learning**. I'm also keen on building projects using the **MERN stack** to create meaningful web applications.
